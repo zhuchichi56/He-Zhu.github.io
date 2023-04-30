@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-### Hi there 👋
+## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+He+Zhu;Nice+to+meet+you!)](https://git.io/typing-svg)
 
@@ -32,31 +32,33 @@ redirect_from:
 
 
 
-#### Work experience
+## Work experience
 
 
 
-* ##### Winter 2022:  DataMining Engineer@[PwC: Audit and assurance, consulting and tax services](https://www.pwc.com/) 
+* #### Winter 2022:  DataMining Engineer@[PwC: Audit and assurance, consulting and tax services](https://www.pwc.com/) 
 
-  <img src="/images/pwc1.png"  style="zoom: 50%;" /> <img src="/images/pwc2.png"  style="zoom: 50%;" />
+  <img src="/images/pwc1.png"  style="zoom: 25%;" /> <img src="/images/pwc2.png"  style="zoom: 25%;" />
 
 
 
-* ##### Summer 2022:  Summer WorkShop@[NUS - National University of Singapore](https://nus.edu.sg/)
+* #### Summer 2022:  Summer WorkShop@[NUS - National University of Singapore](https://nus.edu.sg/)
 
-  * <img src="/images/nus1.png"  style="zoom: 50%;" /> <img src="/images/nus2.png"  style="zoom: 50%;" />
+  * <img src="/images/nus1.png"  style="zoom: 25%;" /> <img src="/images/nus2.png"  style="zoom: 25%;" />
 
   
 
-* ##### Summer2023: Summer Research@[The University of Tokyo](https://www.u-tokyo.ac.jp/en/) Coming Soon!!!
+* #### Summer2023: Summer Research@[The University of Tokyo](https://www.u-tokyo.ac.jp/en/) Coming Soon!!!
 
 
 
-* ##### Fall2023: BISP@[University of California San Diego](https://ucsd.edu/) Coming Soon!!!
+* #### Fall2023: BISP@[University of California San Diego](https://ucsd.edu/) Coming Soon!!!
 
 
 
 
+
+## GitHub Information:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuchichi56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
