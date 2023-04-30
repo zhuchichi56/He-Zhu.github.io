@@ -1,13 +1,8 @@
 ---
 title: "AI algorithm in Reversed Reversi"
-excerpt: Artificial Intelligence Course Project I, using Alpha-Beta pruning search and MCST to build an Reversed Reversi AI.
-<br/><img src='/images/AB.png' style='zoom:50%'>
+excerpt: Artificial Intelligence Course Project II, this paper use simulated annealing algorithm to solve the N-P hard Capacitated Arc Routing Problem.<br/><img src='/images/SA.png' style='zoom:50%'> <img src='/images/CARP1.png' style='zoom:50%'>"
 collection: portfolio
-
-
 ---
-
-
 
 
 
