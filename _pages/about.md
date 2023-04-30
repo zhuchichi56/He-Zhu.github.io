@@ -24,13 +24,39 @@ redirect_from:
 
 🔭 currently working on updating the resource I have learned and implemented in class.
 
-🌱 currently learning Machine Learning, Deep Learning, Natural language processing, and Operating System...
+🌱 currently learning Software Engineer and Operating System...
 
 ⚡ Always looking forward to new things!
 
 👯 I’m looking to collaborate on Kaggle Competition... 
 
-✨ Thristy for new project...
+
+
+#### Work experience
+
+
+
+* ##### Winter 2022:  DataMining Engineer@[PwC: Audit and assurance, consulting and tax services](https://www.pwc.com/) 
+
+  <img src="/images/pwc1.png"  style="zoom: 50%;" /> <img src="/images/pwc2.png"  style="zoom: 50%;" />
+
+
+
+* ##### Summer 2022:  Summer WorkShop@[NUS - National University of Singapore](https://nus.edu.sg/)
+
+  * <img src="/images/nus1.png"  style="zoom: 50%;" /> <img src="/images/nus2.png"  style="zoom: 50%;" />
+
+  
+
+* ##### Summer2023: Summer Research@[The University of Tokyo](https://www.u-tokyo.ac.jp/en/) Coming Soon!!!
+
+
+
+* ##### Fall2023: BISP@[University of California San Diego](https://ucsd.edu/) Coming Soon!!!
+
+
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuchichi56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
