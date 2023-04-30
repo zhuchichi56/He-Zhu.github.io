@@ -1,6 +1,6 @@
 ---
 title: "AI algorithm in Reversed Reversi"
-excerpt:  Artificial Intelligence Course Project I : Using Alpha-Beta pruning search and MCST to build an Reversed Reversi AI.<br/><img src='/images/AB.png'>"
+excerpt:  Artificial Intelligence Course Project I : Using Alpha-Beta pruning search and MCST to build an Reversed Reversi AI.<br/><img src='/images/AB.png' style='zoom:50%'> <img src='/images/AB.png' style='zoom:50%'>"
 collection: portfolio
 ---
 

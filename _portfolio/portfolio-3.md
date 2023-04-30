@@ -1,6 +1,6 @@
 ---
-title: "Simulated Annealing Algorithm in the CAR problem"
-excerpt: Artificial Intelligence Course Project II, this paper use simulated annealing algorithm to solve the N-P hard Capacitated Arc Routing Problem.<br/><img src='/images/SA.png' style='zoom:50%;'>"
+title: "Simulated Annealing Algorithm in the CARR problem"
+excerpt: Artificial Intelligence Course Project II, this paper use simulated annealing algorithm to solve the N-P hard Capacitated Arc Routing Problem.<br/><img src='/images/SA.png' style='zoom:50%'> <img src='/images/CARP1.png' style='zoom:50%'>"
 collection: portfolio
 ---
 
