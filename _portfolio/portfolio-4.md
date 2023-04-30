@@ -1,8 +1,15 @@
 ---
 title: "AI algorithm in Reversed Reversi"
-excerpt:  Artificial Intelligence Course Project I : Using Alpha-Beta pruning search and MCST to build an Reversed Reversi AI.<br/><img src='/images/AB.png' style='zoom:50%'> <img src='/images/AB.png' style='zoom:50%'>"
+excerpt: Artificial Intelligence Course Project I, using Alpha-Beta pruning search and MCST to build an Reversed Reversi AI.
+<br/><img src='/images/AB.png' style='zoom:50%'>
 collection: portfolio
+
+
 ---
+
+
+
+
 
 ​    This report on the AI algorithm in Reversed Reversi provides a comprehensive overview of the strategies and complexities involved in this exciting board game. The paper covers the use of adversarial search algorithms, such as **Min-Max Search and α − β pruning algorithm**, to find optimal policies in Reversed Reversi. The report also discusses how various strategies, such as Mobility and Stable Discs, were hypothesized to impact win rates and were tested accordingly.
 
