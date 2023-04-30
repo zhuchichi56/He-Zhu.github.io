@@ -6,7 +6,7 @@ excerpt: "This paper propose a pre-trained trajectory prediction model via meta-
 <br/><img src='/images/UAML1.png' style='zoom:50%'><img src='/images/UAML2.png' style='zoom:50%'>"
 date: 2022-11-04
 venue: 'SIGSPATIAL'
-paperurl: 'https://github.com/zhuchichi56/zhuchichi56.github.io/blob/master/files/SIGSPATIAL_2022_paper_7845.pdf'
+paperurl: 'https://doi.org/10.1145/3557915.3565536'
 citation: 'Zhu, H. (2022). Personalized individual trajectory prediction via meta-learning. SIGSPATIAL, 116.'
 
 ---
