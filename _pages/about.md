@@ -36,29 +36,29 @@ redirect_from:
 
 
 
-* ### Winter 2022:  DataMining Engineer@[PwC: Audit and assurance, consulting and tax services](https://www.pwc.com/) 
+### Winter 2022:  DataMining Engineer@[PwC: Audit and assurance, consulting and tax services](https://www.pwc.com/) 
 
-  ###### 📍 Shen Zhen ,China
+📍 Shen Zhen ,China
 
 <center class="half">    <img src="/images/pwc1.png" width="200"/> <img src="/images/pwc2.png" width="300"/></center>
 
-* ### Summer 2022:  Summer WorkShop@[NUS - National University of Singapore](https://nus.edu.sg/)
+### Summer 2022:  Summer WorkShop@[NUS - National University of Singapore](https://nus.edu.sg/)
 
-######             📍Singapore 119077
+📍Singapore 119077
 
 <center class="half">    <img src="/images/nus1.png" width="200"/> <img src="/images/nus2.png" width="300"/></center>
 
 
 
-* ### Summer2023: Summer Research@[The University of Tokyo](https://www.u-tokyo.ac.jp/en/) Coming Soon!!! 
+### Summer2023: Summer Research@[The University of Tokyo](https://www.u-tokyo.ac.jp/en/) Coming Soon!!! 
 
-######                     📍Tokoy, Japan
+######                           📍Tokoy, Japan
 
 
 
-* ### Fall2023: BISP@[University of California San Diego](https://ucsd.edu/) Coming Soon!!!
+### Fall2023: BISP@[University of California San Diego](https://ucsd.edu/) Coming Soon!!!
 
-######                     📍California, USA 
+######                           📍California, USA 
 
 
 
