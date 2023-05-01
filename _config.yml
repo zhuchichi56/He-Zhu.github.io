@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "He Zhu"
-  avatar           : "sky.png"
+  avatar           : "/image/sky.png"
   bio              : ""
   location         : "Shenzhen, China / San Diego, USA"
   employer         :
