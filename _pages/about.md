@@ -16,7 +16,7 @@ redirect_from:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+He+Zhu;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-⚡ Set your course by the stars, not by the lights ofevery passing ship. --Omar N. Bradley
+⚡ Set your course by the stars, not by the lights of every passing ship. --Omar N. Bradley
 
 🌱 I'm a junior student studying in SUSTech(Shen Zhen) currently, and looking for summer research on machine learning.
 
