@@ -1,6 +1,6 @@
 ---
 title: "DataMining Final Project"
-excerpt: "Shenzhen cab data visualization platform <br/><img src='/images/kp1.png' style='zoom:50%'> <img src='/images/kp2.png' style='zoom:50%'>"
+excerpt: "Shenzhen cab data visualization platform <br/><img src='/images/kl1.png' style='zoom:50%'> <img src='/images/kl2.png' style='zoom:50%'>"
 collection: portfolio
 ---
 
