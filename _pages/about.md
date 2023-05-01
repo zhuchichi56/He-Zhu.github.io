@@ -44,7 +44,7 @@ redirect_from:
 
 * #### Summer 2022:  Summer WorkShop@[NUS - National University of Singapore](https://nus.edu.sg/)
 
-  * <img src="/images/nus1.png"  style="zoom: 25%;" /> <img src="/images/nus2.png"  style="zoom: 25%;" />
+  <img src="/images/nus1.png"  style="zoom: 25%;" /> <img src="/images/nus2.png"  style="zoom: 10%;" />
 
   
 
@@ -58,8 +58,9 @@ redirect_from:
 
 
 
-## GitHub Information:
 
+
+## GitHub Information:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuchichi56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
