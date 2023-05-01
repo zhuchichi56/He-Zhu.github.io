@@ -38,15 +38,17 @@ redirect_from:
 
 * #### Winter 2022:  DataMining Engineer@[PwC: Audit and assurance, consulting and tax services](https://www.pwc.com/) 
 
-  <img src="/images/pwc1.png"  style="zoom: 25%;" /> <img src="/images/pwc2.png"  style="zoom: 25%;" />
+  
 
-
+<center class="half">    <img src="/images/pwc1.png" width="400"/> <img src="/images/pwc2.png" width="600"/></center>
 
 * #### Summer 2022:  Summer WorkShop@[NUS - National University of Singapore](https://nus.edu.sg/)
 
-  <img src="/images/nus1.png"  style="zoom: 25%;" /> <img src="/images/nus2.png"  style="zoom: 10%;" />
-
   
+
+<center class="half">    <img src="/images/nus1.png" width="400"/> <img src="/images/nus2.png" width="600"/></center>
+
+
 
 * #### Summer2023: Summer Research@[The University of Tokyo](https://www.u-tokyo.ac.jp/en/) Coming Soon!!!
 
