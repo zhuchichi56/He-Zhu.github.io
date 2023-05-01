@@ -4,9 +4,11 @@ excerpt: "The poster of HAWKEYE<br/><img src='/images/NUS.png' style='zoom:50%'>
 collection: portfolio
 ---
 
-​     We trained and built a human following and behavior detection system using Pytorch , Flask, Repberry Pi, Yolo5, openCV. The system can collect pedestrian movement data through cameras and sensors, interact with the backend through the network, and give real-time feedback
+We utilized **PyTorch, Flask, Raspberry Pi, YOLO5, and OpenCV** to train and develop a system capable of detecting and tracking human behavior. This system can gather data on pedestrian movement using cameras and sensors, communicate with a backend through the network, and provide real-time feedback.
 
-​    We independently collected and built a dataset of 10 scenarios (about 21,000 frames) of pedestrian falls and impacts under different locations for training and testing the model of temporal action behavior
+We collected and built a dataset of 10 scenarios (consisting of about 21,000 frames) depicting **pedestrian falls, impacts, and other related events** in various locations. This dataset was used to train and test a model for temporal action behavior.
 
-​    We characterized pedestrians into 7 points (head, limbs, torso), reproduced and modified the **T-GCN** Model for action behavior prediction and classification, and achieved excellent results in related papers, which was recognized by Prof. NUS for innovation.
+We classified pedestrians into seven points (head, limbs, torso), adapted and refined the **T-GCN model** to predict and classify action behavior, and achieved outstanding results as demonstrated in related papers. Our work was recognized for its innovation by Professor NUS.
+
+
 
