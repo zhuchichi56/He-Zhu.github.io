@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "He Zhu"
-  avatar           : "/image/sky.png"
+  # avatar           : "/image/sky.png"
   bio              : ""
   location         : "Shenzhen, China / San Diego, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "www.zhuye140@gmail.com"
+  email            :  "zhuye140@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
