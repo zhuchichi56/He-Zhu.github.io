@@ -1,6 +1,6 @@
 ---
 title: "SUSTECH Delivery System"
-excerpt: "<br/><img src='/images/Delivery/mt.png' style='zoom:30%'> <img src='/images/Delivery/kj.png' style='zoom:25%'>"
+excerpt: "<br/><img src='/images/delivery/mt.png' style='zoom:30%'> <img src='/images/delivery/kj.png' style='zoom:25%'>"
 collection: portfolio
 ---
 
@@ -22,13 +22,13 @@ The order taking page is a very important interface in the campus take-out syste
 
 To make it easier for riders to take orders, you can provide a public list of issued orders on which everyone can issue orders, so that riders can easily find the orders they need. And we use colorful buttoms to enhance the design of this pickup hall page.
 
-![pc](/images/Delivery/pc.png)
+![pc](/images/delivery/pc.png)
 
 Next is the interface for order management, which has brightly colored buttons to indicate the status of the order, and clear icons to show the real-time status of the delivery shi shi to help the order taker as well as the delivery person to quickly understand the current order information and easily respond, such as completing the delivery order and initiating a private chat.
 
-![mt](/images/Delivery/mt.png)
+![mt](/images/delivery/mt.png)
 
-![mo](/images/Delivery/mo.png)
+![mo](/images/delivery/mo.png)
 
 
 
@@ -36,7 +36,7 @@ Next is the interface for order management, which has brightly colored buttons t
 
 For the chat interface, we used a simple and clear dialogue bubble design. First, you can easily see who you are chatting with at the top of the chat room after creating a chat link. Once the chat is started, both the user's and the other user's chat messages are wrapped in different colored bubbles for a clear and comfortable look. The chat text input box is at the bottom of the interface, which makes the entire chat sending process look very smooth.
 
-![lt](/images/Delivery/lt.png)
+![lt](/images/delivery/lt.png)
 
 
 
@@ -44,7 +44,7 @@ For the chat interface, we used a simple and clear dialogue bubble design. First
 
 The recommendation page is a very important interface in your campus delivery system because it helps users share information about food, restaurants, delivery, etc. and facilitates communication between users. The page is designed as an easy to use and interactive interface so that users can easily enter the content and posting time of their posts. You can add comments to the page, and other users can post and see everyone's comments and opinions below the post. More compact and properly arranged so that users can quickly locate the information they want. And each post has a picture display function to show the maximum information about the food to attract users
 
-![kj](/images/Delivery/kj.png)
+![kj](/images/delivery/kj.png)
 
 
 
@@ -52,13 +52,13 @@ The recommendation page is a very important interface in your campus delivery sy
 
 This interface provides a chunked view, which allows users to see at a glance the current information of the pooling, and can click into the pooling group they need to pool, after clicking into the pooling group can clearly see some information of the pooling, the overall process is very smooth and intuitive, convenient for users to quickly start using
 
-![sh](/images/Delivery/sh.png)
+![sh](/images/delivery/sh.png)
 
 
 
 ### DataBase Design:
 
-![db](/images/Delivery/db.png)
+![db](/images/delivery/db.png)
 
 
 
