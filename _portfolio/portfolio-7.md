@@ -1,6 +1,6 @@
 ---
 title: "SUSTECH Delivery System"
-excerpt: "<br/><img src='/images/delivery/mt.png' style='zoom:30%'> <img src='/images/delivery/kj.png' style='zoom:25%'>"
+excerpt: "<br/><img src='/images/delivery/mt.png' style='zoom:30%'> <img src='/images/delivery/kj.png' style='zoom:30%'>"
 collection: portfolio
 ---
 
